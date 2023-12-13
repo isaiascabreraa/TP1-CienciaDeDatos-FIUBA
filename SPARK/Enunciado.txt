@@ -1,0 +1,7 @@
+Realizar sus correspondientes consultas en Spark:
+
+1) Obtenga la matriz de distancias en días entre fechas de actualización de las aplicaciones pagas. ¿Cuáles son las dos aplicaciones con mayor distancia?
+2) Calcule el tamaño promedio de las aplicaciones por versión de Android, sin tener en cuenta las aplicaciones que varían en tamaño según dispositivo.
+3) Para cada categoría, indicar cuál es la aplicación que tiene mayor cantidad de reviews con sentimiento negativo.
+4) ¿Cuál es la aplicación con el nombre más largo?
+5) Indicar el nombre y el tamaño de las aplicaciones educativas.
